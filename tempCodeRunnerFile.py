@@ -1,1 +1,0 @@
-print(np.__version__)
